@@ -4,7 +4,7 @@
 
 I'm a **Software Developer and Computer Science graduate** focused on building reliable, maintainable, and practical web applications.
 
-I have hands-on experience developing and supporting software across **government, education, and private-sector environments**, working across backend development, frontend functionality, relational databases, APIs, Linux servers, deployment, debugging, and production support.
+I have proven experience developing and supporting software across **government, education, and private-sector environments**, working across backend development, frontend functionality, relational databases, APIs, Linux servers, deployment, debugging, and production support.
 
 I enjoy solving real-world problems with software and turning requirements into systems that are useful, secure, and maintainable.
 
