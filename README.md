@@ -1,53 +1,149 @@
 # Hi, I'm Sandra Atero
 
-I'm a software developer with a Bachelor's degree in Computer Science and a focus on building secure, scalable backend systems. I’ve developed real-world applications used by schools, and I’m expanding my expertise to create systems that serve businesses and tech environments.
+## Software Developer | Laravel • React.js • Node.js • PostgreSQL • MySQL
 
----
+I'm a **Software Developer and Computer Science graduate** focused on building reliable, maintainable, and practical web applications.
 
-## Background
+I have hands-on experience developing and supporting software across **government, education, and private-sector environments**, working across backend development, frontend functionality, relational databases, APIs, Linux servers, deployment, debugging, and production support.
 
-- Bachelor’s Degree in Computer Science
-- Currently deepening my full-stack skills with **Go**, **Node.js**, **JavaScript**, and **SQL**
-- Proven experience building **custom web applications** (e.g. admin dashboards, file systems, content managers)
-- Strong foundation in **backend logic**, **database integration**, and **clean code structure**
+I enjoy solving real-world problems with software and turning requirements into systems that are useful, secure, and maintainable.
 
 ---
 
 ## Tech Stack
 
-- **Languages:** JavaScript, PHP, SQL, Go (learning)
-- **Backend:** PHP (experienced), Node.js (learning), Express, REST APIs
-- **Frontend:** HTML5, CSS3, Bootstrap, basic React
-- **Database:** MySQL
-- **Learning Focus:** Backend architecture, system design, API development with Go & Node.js
+### Languages
+
+* PHP
+* JavaScript
+* SQL
+* HTML5
+* CSS3
+
+### Frameworks & Technologies
+
+* Laravel
+* React.js
+* Node.js
+* REST APIs
+* Third-Party API Integration
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* Relational Database Design
+* Query Optimization
+* Data Migration
+* Backup & Recovery
+
+### DevOps & Infrastructure
+
+* Linux / Ubuntu Server
+* Apache
+* Nginx
+* Application Deployment
+* Domain & SSL Configuration
+* Production Troubleshooting
+* System Monitoring
+
+### Development Tools
+
+* Git
+* GitHub
+* GitLab
+* Postman
+* Visual Studio Code
+
+### Additional Knowledge
+
+* TCP/IP, DNS & DHCP
+* Routing & Switching
+* Firewall Management
+* Cybersecurity Fundamentals
+* Agile Development
 
 ---
 
-## Projects I've Built
+## What I Build
 
-- School websites with:
-  - Admin portals (add/edit/delete content, notices, uploads)
-  - Results & fee structure download systems
-  - Article & gallery sections
-- Simple eCommerce systems with admin product control and store geolocation
-- Ongoing learning repos: Full-stack Go + JS apps, API experiments, learning logs
+My development experience includes working on and building systems involving:
 
----
-
-## What I’m Working Toward
-
-- Building **scalable backend services** using Go and Node.js  
-- Writing **clean, testable code** for real-world products  
-- Contributing to **production-level systems** in education, eCommerce, and internal tools  
-- Preparing to join a **tech team** that values security, clarity, and long-term thinking
+* Financial tracking, reporting, and analytics
+* Education and school management systems
+* Data verification and validation workflows
+* Real-time reporting and information-management systems
+* Administrative dashboards and content-management functionality
+* Authentication and data-management functionality
+* Full-stack web applications
+* Third-party API integrations
+* Relational database-backed applications
+* Linux-hosted production applications
 
 ---
 
-> “I build tools that make sense — and make a difference.”
+## Featured Project
+
+### School Management System
+
+A comprehensive web-based system designed to support the day-to-day management of school operations.
+
+**Core functionality includes:**
+
+* Student and academic data management
+* Finance management
+* Reporting
+* Authentication
+* Administrative functionality
+* Relational database integration
+
+**Development work included:**
+
+* Backend application development
+* Database design and management
+* Application functionality
+* Server and production deployment
+* Troubleshooting and maintenance
+
+> More projects and technical experiments are available in my repositories below.
 
 ---
 
-## Let’s Connect
+## Currently Growing
 
-- GitHub: [atero-dev](https://github.com/atero-dev)
-- Email: saterotech@gmail.com
+I'm continuously strengthening my knowledge in:
+
+* Backend architecture
+* System design
+* API design and development
+* Application security
+* Testing and maintainable code
+* Scalable application architecture
+
+I'm also exploring **Go** as an additional backend language.
+
+---
+
+## What I'm Looking For
+
+I'm interested in opportunities where I can contribute to real software products, solve meaningful technical problems, and continue growing as an engineer.
+
+I'm particularly interested in:
+
+* Software Development
+* Full-Stack Development
+* Backend Development
+* Laravel / PHP Development
+* Web Application Development
+
+---
+
+## Let's Connect
+
+* **LinkedIn:** [linkedin.com/in/sandra-atero](https://www.linkedin.com/in/sandra-atero)
+* **GitHub:** [github.com/atero-dev](https://github.com/atero-dev)
+* **Email:** [saterotech@gmail.com](mailto:saterotech@gmail.com)
+
+---
+
+> **Building practical software. Solving real problems. Continuously improving.**
